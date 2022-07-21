@@ -1,0 +1,7 @@
+*.tex~
+*.log
+*.aux
+*.backup
+*.synctex
+*.bbl
+*.blg
